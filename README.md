@@ -1,6 +1,9 @@
 # problem_solving
 
-PS
+The program reads the input file name from stdin, then reads the contents of the input CSV file using the csv package. It processes the data to compute the average quantity and most popular brand for each product, and writes the output CSV files using the same package.
+
+the test file : 
+This code reads the input data and expected output data from CSV files, then tests the calculateAverageQuantity() and calculateMostPopularBrand() methods of the OrderProcessor class. It uses the expect() function from the test package to assert that the actual output matches the expected output.
 
 ## Getting Started
 
